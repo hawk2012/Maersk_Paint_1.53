@@ -1,4 +1,4 @@
-# Maersk ETS 2 Shmitz Cargobull Kool Liner Paint 1.53
+# Maersk ETS 2 Sсhmitz Cargobull Kool Liner Paint 1.53
 
 ![Maersk paint](screen1.png)
 
